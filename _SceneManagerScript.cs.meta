@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ba1e82183fcdd604b90ad7a650e75f0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {instanceID: 0}
+  - pottedPlantPrefab: {instanceID: 0}
+  - personPrefab: {instanceID: 0}
+  - trafficLightPrefab: {instanceID: 0}
+  - frameRateSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
